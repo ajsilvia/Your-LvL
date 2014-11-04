@@ -7,7 +7,18 @@
 * basic edit permissions levels
 * dictatorship guild gov. type
 
-##Stage 2 - Guild Government
+## Stage 2 - Guild Government
 * other gov. types
 * voting mechanisms for various gov. types
 * permission levels for gov. types
+
+## Stage 3 - Alpha
+* testing
+* feature requests & bugs
+
+## Stage 4 - Beta
+* move to cloud
+* bugs and polish
+
+## Stage 5 - Launch
+* launch
