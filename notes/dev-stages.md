@@ -1,4 +1,4 @@
-= Stage 1
+Stage 1
 == Basic framework
 1. user creation/management
 2. guild creation/management
