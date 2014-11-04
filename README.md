@@ -48,10 +48,10 @@ A browser-based app and a mobile app both connecting to the same back-end so tha
 
 ## Sources of Inspiration
 
-The Nerdist Way - Chris Hardwick
-Getting Things Done - David Allen
-RPGs, D&D, WoW
-Epic Win App
-BetterMeans
-https://www.fitocracy.com/ 
-http://www.pcworld.com/article/2149581/play-your-way-to-productivity-with-these-5-gamified-apps.html
+- The Nerdist Way - Chris Hardwick
+- Getting Things Done - David Allen
+- RPGs, D&D, WoW
+- Epic Win App
+- BetterMeans
+- https://www.fitocracy.com/ 
+- http://www.pcworld.com/article/2149581/play-your-way-to-productivity-with-these-5-gamified-apps.html
