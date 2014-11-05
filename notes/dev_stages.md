@@ -10,11 +10,12 @@
 ## Stage 2 - Guild Government
 * other gov. types
 * voting mechanisms for various gov. types
-* permission levels for gov. types
+* temp fixed guild ranks (permission levels) for gov. types
 
 ## Stage 3 - Alpha
 * testing
 * feature requests & bugs
+* customizable guild ranks
 
 ## Stage 4 - Beta
 * move to cloud
