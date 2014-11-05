@@ -16,6 +16,7 @@
 * testing
 * feature requests & bugs
 * customizable guild ranks
+* email notifications
 
 ## Stage 4 - Beta
 * move to cloud
