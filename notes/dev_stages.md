@@ -16,6 +16,7 @@
 * testing
 * feature requests & bugs
 * customizable guild ranks
+* Automatic guild rank promotion based on XP
 * email notifications
 
 ## Stage 4 - Beta
